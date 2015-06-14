@@ -1,0 +1,1 @@
+There are many ways to perform 3D imaging.  In this build, we use temporally encoded structured light to recreate a 3D scene using embedded hardware.
